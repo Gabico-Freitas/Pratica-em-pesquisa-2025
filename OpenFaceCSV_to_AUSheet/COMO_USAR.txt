@@ -1,0 +1,7 @@
+1) Colocar na pasta "input" todos os resultados gerados por um dos conjuntos de dados (top frame, 10 frames, all frames)
+
+2) Executar App.java
+
+3) Digitar qual dos 3 conjunto de dados está sendo processado
+
+4) Saída em output.csv
