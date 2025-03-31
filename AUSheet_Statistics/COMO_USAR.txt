@@ -1,0 +1,6 @@
+
+1) Executar App.java
+
+2) Especificar qual subconjunto dos resultados gerados que se deseja analisar
+
+3) Serão exibidos múltiplos dados estatísticos calculados em cima do subconjunto especificado
